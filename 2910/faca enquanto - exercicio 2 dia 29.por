@@ -16,7 +16,7 @@ programa
 		faca {
 
 			tec = numero
-			soma =+ numero
+			soma += numero
 			numero = numero - 1
 
 			escreva(" ", tec,",")
