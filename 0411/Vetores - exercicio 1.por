@@ -4,7 +4,7 @@ programa
 	funcao inicio()
 	{
 		//Faça um programa que crie um vetor por leitura com 5 valores de pontuação de uma
-		//atividade e o escreva em seguida. Encontre após a maior pontuação e a apresente.
+		//atividade e o escreva em seguida. Encontre após a maior pontuação e a apresente:
 		real pontuacao[5] // Vetor com 4 posições
 		real mp = 0.0 // ---> maior pontuação
 
@@ -28,7 +28,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 401; 
+ * @POSICAO-CURSOR = 202; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

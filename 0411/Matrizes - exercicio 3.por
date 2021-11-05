@@ -3,7 +3,7 @@ programa{
 a) Uma matriz M1 cujos elementos serão as somas dos elementos de mesma posição
 das matrizes N1 e N2;
 b) Uma matriz M2 cujos elementos serão as diferenças dos elementos de mesma
-posição das matrizes N1 e N2.*/
+posição das matrizes N1 e N2:*/
 	
 	funcao inicio()
 	{
@@ -41,7 +41,7 @@ posição das matrizes N1 e N2.*/
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 359; 
+ * @POSICAO-CURSOR = 287; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = {n1, 10, 10, 2}-{n2, 10, 20, 2}-{m1, 10, 30, 2}-{m2, 10, 40, 2};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
