@@ -3,7 +3,7 @@ programa{
 a) Uma matriz M1 cujos elementos serão as somas dos elementos de mesma posição
 das matrizes N1 e N2;
 b) Uma matriz M2 cujos elementos serão as diferenças dos elementos de mesma
-posição das matrizes N1 e N2:*/
+posição das matrizes N1 e N2.*/
 	
 	funcao inicio()
 	{
