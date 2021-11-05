@@ -16,7 +16,7 @@ programa
 		faca {
 
 			tec = numero
-			soma =+ numero
+			soma += numero
 			numero = numero - 1
 
 			escreva(" ", tec,",")
@@ -30,7 +30,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 363; 
+ * @POSICAO-CURSOR = 358; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
